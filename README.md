@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abhi-developer
+- 👋 Hi, I’m @abloops
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Javascript and PHP
 - 💞️ I’m looking to collaborate on ...
