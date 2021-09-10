@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @abloops
+- 👋 Hi, I’m @imab001
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Javascript and PHP
+- 🌱 I’m currently learning Javascript, Python, & PHP 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
