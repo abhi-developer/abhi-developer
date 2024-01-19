@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @imab001
 - 👀 I’m interested in creating Web apps, plugins & extensions
-- 🌱 I’m currently learning JavaScript, Python, & PHP
+- 🌱 I’m currently learning Web Development (Frontend, Backend, Databases)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
